@@ -1,2 +1,3 @@
-# gems-5f7d05d8
-Repository for GEMS - Grant Eligibility Matching System
+# GEMS - Grant Eligibility Matching System
+
+AI-powered platform to automate discovery, eligibility auditing, and application drafting for Alberta grant programs
